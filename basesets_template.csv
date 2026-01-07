@@ -1,0 +1,5 @@
+Group_Label;Required_N;Filter_1;Filter_2;Filter_3;Etc
+Gloomy;30;Valence<4;Arousal<4.5;;
+Neutral;30;Arousal<5.5;Valence>4;Valence<6;
+Positive;30;Valence>6;Arousal>5.5;;
+Unsettling;30;Valence<4;Arousal>5.5;;

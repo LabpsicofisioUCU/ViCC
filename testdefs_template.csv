@@ -1,0 +1,17 @@
+Test_Type;Variable;Groups;Operator;p_Threshold
+ttest2;Arousal;Positive,Unsettling;>;0.2
+ttest2;Valence;Gloomy,Unsettling;>;0.1
+ttest2;Arousal;Gloomy,Unsettling;<;0.2
+ttest2;Valence;Positive,Neutral;<;0.2
+ttest2;Arousal;Unsettling,Neutral;<;0.2
+ttest2;Arousal;Positive,Neutral;<;0.2
+anova1;Luminance;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF1;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF2;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF3;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF4;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF5;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF6;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF7;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SF8;Gloomy,Unsettling,Positive,Neutral;>;0.2
+anova1;SFResiduals;Gloomy,Unsettling,Positive,Neutral;>;0.2
